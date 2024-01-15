@@ -17,6 +17,10 @@ Technologies Used
         OpenAI
         TikToken
         Keras
+        google collab
+        BERT
+        W2V
+        
 
 
 The data used in this project is sourced from Funda and is utilized strictly for academic and scientific purposes. Due to ownership rights, the dataset is not included in this repository.
